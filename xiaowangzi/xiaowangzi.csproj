@@ -121,7 +121,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="99乘法表.aspx" />
     <Content Include="About.aspx" />
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Manage.aspx" />
@@ -233,13 +232,6 @@
     <Content Include="Bundle.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="99乘法表.aspx.cs">
-      <DependentUpon>99乘法表.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="99乘法表.aspx.designer.cs">
-      <DependentUpon>99乘法表.aspx</DependentUpon>
-    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\AuthConfig.cs" />
     <Compile Include="About.aspx.cs">

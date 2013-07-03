@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
 <meta name="GENERATOR" content="Microsoft FrontPage 4.0">
 <meta name="ProgId" content="FrontPage.Editor.Document">
-<title>wangzi个人网页</title>
+<title></title>
 <style type="text/css">
 A{TEXT-DECORATION: none}
 A:link {COLOR: #666666; FONT-FAMILY: 宋体; TEXT-DECORATION: none}
@@ -177,7 +177,7 @@ TABLE {BORDER-COLLAPSE: collapse; FONT-FAMILY: 宋体; FONT-SIZE: 9pt}
                   </td>
               <td height="144" width="335" style="border-right: 1 dotted #C0C0C0" colspan="2"> 
                 <p align="left"><br>
-                  <br>
+                  <a href="http://www.baidu.com"></a><br>
            <a href="http://www.baidu.com">
               </td>
               <td height="144" width="265" style="border-right: 1 solid #008000" colspan="2">
@@ -207,7 +207,7 @@ TABLE {BORDER-COLLAPSE: collapse; FONT-FAMILY: 宋体; FONT-SIZE: 9pt}
                                 <td colspan="2" align="center" width="193" height="28">你觉得这里怎么样?</td>
 </tr>
 <tr>
-<td colspan="2" align="center" width="193" height="29"><input type=radio value=optiona name=vote checked><img border="0" src="img/dc1.gif" width="18" height="12">{当然好}</td>
+<td colspan="2" align="center" width="193" height="29"><input type=radio value=optiona name=vote checked><img border="0" src="img/dc1.gif" width="18" height="12">{好}</td>
 </tr>
 <tr>
 <td colspan="2" align="center" width="193" height="29"><input type=radio value=optionb name="vote"><img border="0" src="img/dc2.gif" width="18" height="12">{非常好}</td>
@@ -275,7 +275,6 @@ TABLE {BORDER-COLLAPSE: collapse; FONT-FAMILY: 宋体; FONT-SIZE: 9pt}
               <td height="26" width="335" style="border-right: 1 solid #C0C0C0; border-top: 1 solid #C0C0C0; border-bottom: 1 solid #C0C0C0" background="img/homedhbg.jpg" colspan="2"><img border="0" src="img/index_newpic.jpg" width="220" height="21"></td>
               <td height="26" width="265" style="border-right: 1 solid #008000; border-top: 1 solid #C0C0C0; border-bottom: 1 solid #C0C0C0" background="img/homedhbg.jpg" colspan="2"><img border="0" src="img/index_newupdate.jpg" width="220" height="21"></td>
             </tr>
-
             <tr>
               <td height="36" width="51" style="border-left: 1 solid #008000; border-right: 1 dotted #C0C0C0; border-bottom: 1 dotted #C0C0C0" align="center">
                 <p align="center"><img border="0" src="img/touxiang.jpg" alt="网名" width="32" height="32"></td>
@@ -286,7 +285,7 @@ TABLE {BORDER-COLLAPSE: collapse; FONT-FAMILY: 宋体; FONT-SIZE: 9pt}
               </td>
   <center>
               <td height="146" width="265" style="border-right: 1 solid #008000" colspan="2" rowspan="4">  
-                <p align="center"><a href="http://localhost:4601/99%E4%B9%98%E6%B3%95%E8%A1%A8.aspx">点我到 99乘法表</a></td>
+                <p align="center"><iframe src="zuop.htm" frameborder=0 width=265 scrolling=no height=180></iframe></td>
             </tr>
             <tr>
               <td height="36" width="51" style="border-left: 1 solid #008000; border-right: 1 dotted #C0C0C0; border-bottom: 1 dotted #C0C0C0" align="center"><img border="0" src="img/qq.jpg" alt="QQ" width="27" height="29"></td>
@@ -300,9 +299,9 @@ TABLE {BORDER-COLLAPSE: collapse; FONT-FAMILY: 宋体; FONT-SIZE: 9pt}
               <td height="37" width="51" style="border-left: 1 solid #008000; border-right: 1 dotted #C0C0C0; border-bottom: 1 dotted #C0C0C0" align="center"><img border="0" src="img/dianhua1.jpg" alt="联系电话" width="36" height="29"></td>
               <td height="37" width="129" style="border-left-color: #008000; border-left-width: 1; border-right: 1 dotted #C0C0C0; border-bottom: 1 dotted #C0C0C0" align="center">保密</td>
             </tr>
-            <tr>
+            <%--<tr>
               <td height="23" width="779" colspan="6" background="img/logo08.jpg" style="border-left: 1 solid #008000; border-right: 1 solid #008000; border-top: 1 solid #C0C0C0; border-bottom: 1 solid #008000">　</td>
-            </tr>
+            </tr>--%>
           </table>
         </div>
       </td>
