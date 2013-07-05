@@ -121,13 +121,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="99乘法表.aspx" />
     <Content Include="About.aspx" />
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Manage.aspx" />
     <Content Include="Account\OpenAuthProviders.ascx" />
     <Content Include="Account\Register.aspx" />
     <Content Include="Account\RegisterExternalLogin.aspx" />
+    <Content Include="Account\99乘法表.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\Site.css" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
@@ -184,20 +184,29 @@
     <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
-    <Content Include="Images\accent.png" />
-    <Content Include="Images\bullet.png" />
-    <Content Include="Images\heroAccent.png" />
-    <Content Include="Images\orderedList0.png" />
-    <Content Include="Images\orderedList1.png" />
-    <Content Include="Images\orderedList2.png" />
-    <Content Include="Images\orderedList3.png" />
-    <Content Include="Images\orderedList4.png" />
-    <Content Include="Images\orderedList5.png" />
-    <Content Include="Images\orderedList6.png" />
-    <Content Include="Images\orderedList7.png" />
-    <Content Include="Images\orderedList8.png" />
-    <Content Include="Images\orderedList9.png" />
+    <Content Include="Images\bot-back.jpg" />
+    <Content Include="Images\dianhua1.jpg" />
+    <Content Include="Images\dotline.jpg" />
+    <Content Include="Images\homedhbg.jpg" />
+    <Content Include="Images\index_newpic.jpg" />
+    <Content Include="Images\index_news.jpg" />
+    <Content Include="Images\index_newupdate.jpg" />
+    <Content Include="Images\index_newuser.jpg" />
+    <Content Include="Images\index_publicdiary.jpg" />
+    <Content Include="Images\index_recom.jpg" />
+    <Content Include="Images\logo.jpg" />
+    <Content Include="Images\main_bg02.jpg" />
+    <Content Include="Images\main_dc.jpg" />
+    <Content Include="Images\main_head_left.jpg" />
+    <Content Include="Images\main_login.jpg" />
+    <Content Include="Images\main_search.jpg" />
+    <Content Include="Images\pageBg.jpg" />
+    <Content Include="Images\qq.jpg" />
+    <Content Include="Images\spring_2.jpg" />
+    <Content Include="Images\touxiang.jpg" />
+    <Content Include="Images\webmaster.jpg" />
     <Content Include="packages.config" />
+    <Content Include="Images\mouse.ani" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
@@ -233,11 +242,11 @@
     <Content Include="Bundle.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="99乘法表.aspx.cs">
+    <Compile Include="Account\99乘法表.aspx.cs">
       <DependentUpon>99乘法表.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="99乘法表.aspx.designer.cs">
+    <Compile Include="Account\99乘法表.aspx.designer.cs">
       <DependentUpon>99乘法表.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
