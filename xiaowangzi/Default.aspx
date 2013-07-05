@@ -151,10 +151,11 @@ TABLE {BORDER-COLLAPSE: collapse; FONT-FAMILY: 宋体; FONT-SIZE: 9pt}
                                               <option value="3">保留一年</option>
                                             </select></td>
                                         </tr>
-                                          用户注册
+
                                         <tr>
                                           <td align="center" height="1" width="187">
-                                            <p align="center"><input onclick="return checkForm();" type="submit" value="登陆">　<input onclick="    window.location = 'memberreg.aspx'" type="button" value="注册">
+                                            <p align="center"><input onclick="return checkForm();" type="submit" value="登陆">
+                                                <a id="registerLink" runat="server" href="~/Account/Register.aspx">注册</a>
                                           </p>
                                           </td>
                                         </tr>
@@ -277,7 +278,7 @@ TABLE {BORDER-COLLAPSE: collapse; FONT-FAMILY: 宋体; FONT-SIZE: 9pt}
               </td>
   <center>
               <td height="146" width="265" style="border-right: 1 solid #008000" colspan="2" rowspan="4">  
-                <p align="center"><<a href="http://localhost:4601/Account/99%E4%B9%98%E6%B3%95%E8%A1%A8.aspx">点我吧  99乘法表</a></td>>
+                <p align="center"><<a href="~/Account/MulTable.aspx" runat="server">点我吧  99乘法表</a></td>>
             </tr>
             <tr>
               <td height="36" width="51" style="border-left: 1 solid #008000; border-right: 1 dotted #C0C0C0; border-bottom: 1 dotted #C0C0C0" align="center"><img border="0" src="Images/qq.jpg" alt="QQ" width="27" height="29"></td>
