@@ -1,6 +1,4 @@
-
 <html>
-
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
 <meta name="GENERATOR" content="Microsoft FrontPage 4.0">
@@ -73,7 +71,6 @@ TABLE {BORDER-COLLAPSE: collapse; FONT-FAMILY: 宋体; FONT-SIZE: 9pt}
   <table border="0" cellpadding="0" cellspacing="0" width="760" height="30">
     <tr>
       <td width="778" height="30" background="Images/spring_2.jpg" style="border-left: 1 solid #008000; border-right: 1 solid #008000; border-bottom: 1 solid #008000">
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://www.baidu.com" width="750" height="145">
           <param name="_cx" value="20029">
           <param name="_cy" value="4128">
           <param name="FlashVars" value>
@@ -134,7 +131,6 @@ TABLE {BORDER-COLLAPSE: collapse; FONT-FAMILY: 宋体; FONT-SIZE: 9pt}
                                     return true;
                                 }
 		</script>
-                            <form id="loginForm" action="http://www.baidu.com" method="post">
                               <tbody>
                                 <tr>
                                   <td vAlign="top" align="middle">
@@ -178,7 +174,6 @@ TABLE {BORDER-COLLAPSE: collapse; FONT-FAMILY: 宋体; FONT-SIZE: 9pt}
               <td height="144" width="335" style="border-right: 1 dotted #C0C0C0" colspan="2"> 
                 <p align="left"><br>
                   <br>
-           <%--<a href="http://www.baidu.com">--%>
               </td>
               <td height="144" width="265" style="border-right: 1 solid #008000" colspan="2">
                 <p align="center"><font color="#FF00FF"> 梧桐树，三更雨，
@@ -223,10 +218,6 @@ TABLE {BORDER-COLLAPSE: collapse; FONT-FAMILY: 宋体; FONT-SIZE: 9pt}
 </tr>
 </form>
 <script language="JavaScript">
-
-    //function popwin(id) {
-    //    window.open("http://www.baidu.com" + id, "", "top=2,left=2,height=300,width=650,resizable=no,scrollbars=yes,status=no,toolbar=no,menubar=no,location=no");
-    //}
 </script>
 </table>
                         </td>
